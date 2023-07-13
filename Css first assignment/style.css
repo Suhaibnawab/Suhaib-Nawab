@@ -1,0 +1,39 @@
+.navbar{
+ background-color: rgb(233, 224, 230);
+}
+.navbar li{
+    list-style: none;
+    font-size: larger;
+    display: inline;
+    padding-left: 5px;
+    margin-left: 240px;
+}
+.Image 2{
+    
+
+}
+.hhh{
+    margin-left: 100px;
+    font-size: larger;
+}
+.SSS{
+   margin-left: 100px;
+   font-style: normal;
+   font-size: x-large;
+   color: crimson;
+}
+.TTT{
+    position: relative;
+    margin-left: 900px;
+    bottom: 130px;
+    
+    
+}
+ .Suhaib{
+    margin-left: 100px;
+ }
+ .nawab{
+    position: relative;
+    margin-left: 100px;
+    bottom: 135px;
+ }
